@@ -3,6 +3,26 @@
 **Palo Alto Networks — HR Analytics Project**
 
 A comprehensive data science project analyzing employee attrition risk at Palo Alto Networks. Includes exploratory data analysis (EDA), KPI computation, an interactive Streamlit dashboard, and detailed reports with actionable recommendations.
+# Workforce Attrition Patterns & Risk Hotspot Analysis
+
+## 🚀 Live Dashboard
+
+[Open Live Employee Attrition Dashboard](https://nehans-workforce-attrition.streamlit.app/)
+
+## 📊 Project Overview
+
+An interactive Streamlit dashboard for analyzing employee attrition patterns and identifying workforce risk hotspots.
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Plotly
+- Matplotlib
+- Seaborn
+- Streamlit
+- GitHub
 
 ## Project Structure
 
